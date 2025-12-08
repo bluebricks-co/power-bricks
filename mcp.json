@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "bluebricks": {
+      "command": "bricks",
+      "args": ["mcp"],
+      "disabled": false,
+      "autoApprove": [
+        "bricks-list-blueprints",
+        "bricks-list-environments",
+        "bricks-list-deployments"
+      ]
+    }
+  }
+}
