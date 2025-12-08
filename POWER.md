@@ -3,7 +3,6 @@ name: "bluebricks"
 displayName: "Bluebricks Environment Orchestration"
 description: "One-click environment orchestration - deploy production-ready cloud infrastructure with AI-powered blueprints and IaC guardrails"
 keywords: ["infrastructure", "blueprints", "terraform", "helm", "deployment", "iac", "bluebricks", "cloud", "devops", "environments", "orchestration", "cloudformation", "bicep", "agentic"]
-author: "Bluebricks"
 ---
 
 # Bluebricks Environment Orchestration
