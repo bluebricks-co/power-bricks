@@ -6,6 +6,8 @@ keywords: ["infrastructure", "blueprints", "terraform", "helm", "deployment", "i
 author: "Bluebricks"
 ---
 
+![Bluebricks](https://imagedelivery.net/GRlZt5UrJIr1V5GExj-ycg/07f0eae7-25a9-4983-b51d-d8e378f39c00/publicSmall)
+
 # Bluebricks Environment Orchestration
 
 ## Overview
